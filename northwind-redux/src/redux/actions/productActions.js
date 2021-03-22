@@ -34,9 +34,9 @@ export function saveProductApi(product) {
 export function saveProduct(product){
   return function(dispatch){
     saveProductApi(product).then(savedProduct=>{
-      product.id?dispatch(updateProductSuccess(saveProduct)):dispatch(createProductSuccess(savedProduct))
+      product.id?dispatch(updateProductSuccess(savedProduct)):dispatch(createProductSuccess(savedProduct))
       .catch(error=>{throw error})
-    });
+    })
   }
 }
 

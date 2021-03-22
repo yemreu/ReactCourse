@@ -5,7 +5,7 @@
       "categoryId": 2,
       "productName": "Chai",
       "quantityPerUnit": "48 - 6 oz jars",
-      "unitPrice": "24",
+      "unitPrice": "33",
       "unitsInStock": 53
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "id": 4,
-      "categoryId": 1,
+      "categoryId": 4,
       "productName": "Chef Anton's Cajun Seasoning",
       "quantityPerUnit": "48 - 6 oz jars",
       "unitPrice": "222",
@@ -29,7 +29,7 @@
       "categoryId": 2,
       "productName": "Chef Anton's Gumbo Mix",
       "quantityPerUnit": "36 boxes",
-      "unitPrice": "21",
+      "unitPrice": "22",
       "unitsInStock": 0
     },
     {
@@ -37,7 +37,7 @@
       "categoryId": 2,
       "productName": "Grandma's Boysenberry Spread",
       "quantityPerUnit": "12 - 8 oz jars",
-      "unitPrice": 25,
+      "unitPrice": "22",
       "unitsInStock": 120
     },
     {
@@ -607,6 +607,38 @@
       "quantityPerUnit": "12 boxes",
       "unitPrice": 13,
       "unitsInStock": 32
+    },
+    {
+      "productName": "asdasd",
+      "categoryId": 6,
+      "unitPrice": "22",
+      "quantityPerUnit": "22",
+      "unitsInStock": "233",
+      "id": 78
+    },
+    {
+      "productName": "gsaasd",
+      "categoryId": 1,
+      "unitPrice": "32",
+      "quantityPerUnit": "12",
+      "unitsInStock": "44",
+      "id": 79
+    },
+    {
+      "productName": "gdfgd",
+      "categoryId": 7,
+      "unitPrice": "sas",
+      "quantityPerUnit": "adad",
+      "unitsInStock": "dfgdfg",
+      "id": 80
+    },
+    {
+      "productName": "yeni",
+      "categoryId": 8,
+      "unitPrice": "1",
+      "quantityPerUnit": "3",
+      "unitsInStock": "5",
+      "id": 81
     }
   ],
   "categories": [
